@@ -1,0 +1,11 @@
+# Only publish the handwritten teaching code and repository documentation.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/a_toy_bd/
+/a_toy_bd/*
+!/a_toy_bd/a1_tensor_basic.py
+!/a_toy_bd/a1_tensor_basic.ipynb
+!/a_toy_bd/a2_toy_bd.ipynb
+!/a_toy_bd/a3_probe_toy.ipynb
